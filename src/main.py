@@ -1,7 +1,7 @@
 from agent.chat_session import ChatSession
-from src.agent.llm_service import LLMService
-from src.agent.news_service import NewsService
-from src.agent.scraper_service import ScraperService
+from agent.llm_service import LLMService
+from agent.news_service import NewsService
+from agent.scraper_service import ScraperService
 
 def main():
     session = ChatSession()
