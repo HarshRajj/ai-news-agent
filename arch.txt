@@ -1,0 +1,6 @@
+-> user types something
+-> llm understand the user input 
+-> refine the user query for api format
+-> get the title and urls of the news using LLM output and newsAPI
+-> give the url to firecrawl to extract the news articles 
+-> give to the LLM to refine output into understandable summary
